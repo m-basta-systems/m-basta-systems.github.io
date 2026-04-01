@@ -8,9 +8,13 @@ If you are running a complex GStreamer pipeline on Yocto-based hardware, droppin
 
 [Discuss your project](mailto:office@bastasystems.com)
 
-| Systems Programming | Media Pipelines | Automation |
-| --- | --- | --- |
-| <ul><li>C++, Rust</li><li>Low-latency backends</li><li>Server-side performance-critical development</li><li>Multithreaded applications</li><li>Systemd services</li></ul> | GStreamer, FFmpeg, FMOD, Dynamic audio/video streaming pipelines, low-level and high-level audio engines | Python-based automation, pytest, Blender API |
+| Systems Programming | Media Pipelines |
+| --- | --- |
+| C++, Rust | GStreamer, FFmpeg, FMOD, Symphonia |
+| Low-latency backends | Dynamic audio/video streaming pipelines |
+| Server-side performance-critical development | Low-level and high-level audio engines |
+| Multithreaded applications | |
+| Systemd services | |
 
 ## Tech Stack
 
