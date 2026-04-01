@@ -10,7 +10,7 @@ If you are running a complex GStreamer pipeline on Yocto-based hardware, droppin
 
 | Systems Programming | Media Pipelines | Automation |
 | --- | --- | --- |
-| C++, Rust, Low-latency backends, server-side performance-critical development, multithreaded applications, systemd services | GStreamer, FFmpeg, FMOD, Dynamic audio/video streaming pipelines, low-level and high-level audio engines | Python-based automation, pytest, Blender API |
+| <ul><li>C++, Rust</li><li>Low-latency backends</li><li>Server-side performance-critical development</li><li>Multithreaded applications</li><li>Systemd services</li></ul> | GStreamer, FFmpeg, FMOD, Dynamic audio/video streaming pipelines, low-level and high-level audio engines | Python-based automation, pytest, Blender API |
 
 ## Tech Stack
 
