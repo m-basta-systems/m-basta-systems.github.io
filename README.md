@@ -12,9 +12,7 @@ If you are running a complex GStreamer pipeline on Yocto-based hardware, droppin
 | --- | --- |
 | C++, Rust | GStreamer, FFmpeg, FMOD, Symphonia |
 | Low-latency backends | Dynamic audio/video streaming pipelines |
-| Server-side performance-critical development | Low-level and high-level audio engines |
-| Multithreaded applications | |
-| Systemd services | |
+| Multithreaded applications | Low-level and high-level audio engines |
 
 ## Tech Stack
 
