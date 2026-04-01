@@ -1,8 +1,6 @@
-[BASTA Systems](bastasystems.com) | [Tech Stack]() | [Case Studies]() | [Contact]()
+[BASTA Systems](bastasystems.com) | [Tech Stack](#tech-stack) | [Case Studies]() | [Contact](#ready-to-build)
 
-# High-Performance Systems Engineering
-
-C++ | Rust | Linux | GStreamer
+## High-Performance Systems Engineering
 
 I build the resilient infrastructure that powers your low-latency streaming and media applications.
 
@@ -14,7 +12,11 @@ If you are running a complex GStreamer pipeline on Yocto-based hardware, droppin
 | --- | --- | --- |
 | C++, Rust, Low-latency backends, server-side performance-critical development, multithreaded applications, systemd services | GStreamer, FFmpeg, FMOD, Dynamic audio/video streaming pipelines, low-level and high-level audio engines | Python-based automation, pytest, Blender API |
 
-Ready to build?
+## Tech Stack
+
+Rust | C++ | Python | Linux | GStreamer | Qt
+
+## Ready to build?
 
 Whether you are defining a new streaming architecture, optimizing a bottleneck, or needing to integrate Rust into your legacy C++ stack, let's talk.
 
