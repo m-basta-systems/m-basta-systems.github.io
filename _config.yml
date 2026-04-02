@@ -2,6 +2,7 @@
 title: BASTA Systems Consulting & Engineering
 tagline: High-performance, low-latency, high-reliability software development
 description: High-performance, low-latency, high-reliability software development
+show_github_link: false
 remote_theme: m-basta-systems/hacker-pages-theme@master
 plugins:
 - jekyll-remote-theme
