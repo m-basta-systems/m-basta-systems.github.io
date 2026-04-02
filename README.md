@@ -1,8 +1,8 @@
 [BASTA Systems](bastasystems.com) | [Tech Stack](#tech-stack) | [Case Studies]() | [Contact](#ready-to-build)
 
-## High-Performance Systems Engineering
+## High-Performance Software Engineering
 
-I build the resilient infrastructure that powers your low-latency streaming and media applications.
+I build the resilient, low-latency streaming and media applications.
 
 If you are running a complex GStreamer pipeline on Yocto-based hardware, dropping frames is not an option. I ensure your application level code is memory-safe, thread-secure, and optimized for maximum throughput under load.
 
