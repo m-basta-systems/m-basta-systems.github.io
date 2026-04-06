@@ -1,6 +1,6 @@
-title: BASTA Systems — Software Engineering Services
-tagline: High-performance, low-latency software development
-description: High-performance, low-latency software development
+title: BASTA Systems
+tagline: Software engineering services
+description: Software engineering services
 show_github_link: false
 remote_theme: m-basta-systems/hacker-pages-theme@master
 plugins:
