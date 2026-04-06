@@ -55,8 +55,6 @@ The engine used complex, dynamic GStreamer pipelines that were assembled and mod
 
 The result was a stable, artifact-free engine shipped in a commercial product.
 
----
-
 ### Dynamic Video Streaming Pipeline on NVIDIA Jetson TX2
 
 > Dynamic pipelines, static guarantees
