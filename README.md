@@ -14,9 +14,7 @@ Typical results:
 
 [Tell me about your project](mailto:office@bastasystems.com)
 
----
-
-### Services
+## Services
 
 | Systems Programming | Media & Streaming Pipelines |
 |---|---|
@@ -28,8 +26,6 @@ Typical results:
 
 I also take on Python automation, scripting, and web backend work.
 Reach out if you have something that doesn't fit neatly into the above.
-
----
 
 ## Tech Stack
 
@@ -66,8 +62,6 @@ An industrial device required a video streaming pipeline that could be fully rec
 I built the pipeline in Rust with GStreamer, with the focus on correctness and stability under continuous dynamic reconfiguration. The pipeline was wrapped in a RESTful service to allow external control of all configuration options over the network.
 
 The deliverable was a stable, controllable pipeline suitable for deployment on resource-constrained embedded hardware.
-
----
 
 ## Ready to Build?
 
