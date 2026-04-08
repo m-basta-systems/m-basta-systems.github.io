@@ -18,7 +18,7 @@ Typical results:
 
 | Systems Programming | Media & Streaming Pipelines |
 |---|---|
-| Rust and C++ development | Design and debuggin of GStreamer pipelines |
+| Rust and C++ development | Design and debugging of GStreamer pipelines |
 | Multithreaded, memory-safe applications | Dynamic audio/video streaming systems |
 | Perfomance optimization and profiling | Custom plugin development |
 | Application development on embedded devices | Audio engines |
